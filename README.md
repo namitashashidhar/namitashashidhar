@@ -47,9 +47,9 @@
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namitashashidhar&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=namitashashidhar&theme=dark)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=namitashashidhar&theme=dark)
 ![Namita's github stats](https://github-readme-stats.vercel.app/api?username=namitashashidhar&show_icons=true&theme=dark)
-
+ -->
 
 
 
