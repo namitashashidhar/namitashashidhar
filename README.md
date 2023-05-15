@@ -11,7 +11,7 @@
 <div id= "header" align="center">
 <img src="https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/44d27a9d46b35df3-7b/s500x750/fa0e3124b119e92be00c3a32835ff8925ed7e017.gif"> 
     <div id="badges">
-      <a href="www.linkedin.com/in/namita-shashidhar/">
+      <a href="https://www.linkedin.com/in/namita-shashidhar/">
         <img src="https://img.shields.io/badge/LinkedIn-darkred?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </div>
